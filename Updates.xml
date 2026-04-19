@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>ru.droneview</Name>
+  <DisplayName>DroneView</DisplayName>
+  <Description>The main component</Description>
+  <Version>0.0.1</Version>
+  <ReleaseDate>2023-04-12</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="59461262" OS="Any" UncompressedSize="155723385"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,multimedia.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license_en.txt" name="License Agreement"/>
+  </Licenses>
+  <SHA1>01c14827e12d0a5cd95822858d5965d588a011c9</SHA1>
+ </PackageUpdate>
+ <SHA1>9d4a77f278163a6d3ab6b006a1cfe7013cecee1a</SHA1>
+ <MetadataName>2026-04-19-2359_meta.7z</MetadataName>
+</Updates>
