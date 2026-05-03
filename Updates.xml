@@ -6,19 +6,19 @@
   <Name>ru.droneview</Name>
   <DisplayName>DroneView</DisplayName>
   <Description>The main component</Description>
-  <Version>0.0.2</Version>
+  <Version>0.0.3</Version>
   <ReleaseDate>2023-04-12</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <RequiresAdminRights>true</RequiresAdminRights>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="58345810" OS="Any" UncompressedSize="150682732"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,multimedia.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <UpdateFile CompressedSize="60750245" OS="Any" UncompressedSize="157792848"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,multimedia.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="license_en.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>912faa36e1b00b25da6dfeaa13158b7353a5f346</SHA1>
+  <SHA1>8b3a703a5b08878324b50bdc26fb6b9d06b5d537</SHA1>
  </PackageUpdate>
- <SHA1>9e919effb9e515290a72d2de7597fea08c4058e4</SHA1>
- <MetadataName>2026-04-24-0002_meta.7z</MetadataName>
+ <SHA1>1936d288fec5e267699e49ebb004a2f748c63d8c</SHA1>
+ <MetadataName>2026-05-04-0102_meta.7z</MetadataName>
 </Updates>
